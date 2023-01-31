@@ -14,5 +14,5 @@
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@koreaman4465)](https://www.youtube.com/@koreaman4465)
   
 ## :mailbox: How To Contact Me
-  [![Gmail Badge](https://img.shields.io/badge/windowlife92@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:windowlife92@gmail.com)](mailto:windowlife92@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/windowlife92@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:windowlife92@gmail.com)](mailto:windowlife92@gmail.com)<br>
   :telephone_receiver: 010-7279-4033
