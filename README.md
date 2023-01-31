@@ -10,7 +10,7 @@
 </div>
 
 ## My Space
-  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=black&link=https://blog.naver.com/windowlife"/></a>
+  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=black&link=https://blog.naver.com/windowlife"/>(https://www.youtube.com/@koreaman4465)</a>
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@koreaman4465)](https://www.youtube.com/@koreaman4465)
   
 ## :mailbox: How To Contact Me
