@@ -10,7 +10,7 @@
 </div>
 
 ## My Space
-  [![Tech Blog Badge](http://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/windowlife)](https://blog.naver.com/windowlife)	
+  [![Blog Badge](http://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=naver&link=https://blog.naver.com/windowlife)](https://blog.naver.com/windowlife)	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@koreaman4465)](https://www.youtube.com/@koreaman4465)
   
 ## How To Contact Me
