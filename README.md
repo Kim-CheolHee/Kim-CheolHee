@@ -1,4 +1,4 @@
-## My Stack
+## :computer: My Stack
 <div>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -15,3 +15,4 @@
   
 ## :mailbox: How To Contact Me
   [![Gmail Badge](https://img.shields.io/badge/windowlife92@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:windowlife92@gmail.com)](mailto:windowlife92@gmail.com)
+  :telephone_receiver: 010-7279-4033
