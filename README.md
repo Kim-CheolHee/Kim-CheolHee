@@ -15,3 +15,4 @@
   
 ## How To Contact Me
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:windowlife92@gmail.com)](mailto:windowlife92@gmail.com)
+  <a href="mailto:windowlife92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:windowlife92@gmail.com"/></a></p>
