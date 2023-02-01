@@ -1,11 +1,11 @@
 ## :computer: Skills
-#### - Backend &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - Frontend
+#### - Backend &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - Frontend
 <div>
 	&emsp;<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -20,7 +20,7 @@
 </div>
 
 ## :house: My Space
-  [![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/windowlife)](https://blog.naver.com/windowlife)
+  &emsp;&emsp;[![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/windowlife)](https://blog.naver.com/windowlife)
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@koreaman4465)](https://www.youtube.com/@koreaman4465)
   
 ## :mailbox: How To Contact Me
