@@ -22,7 +22,7 @@
 <div>
 	&emsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 	<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
