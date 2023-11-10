@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 	<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
-	<img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" />
+	<img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" /> 
 </div>
 
