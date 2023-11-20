@@ -32,7 +32,7 @@
 
 ## :house: My Space 
   &emsp;[![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/windowlife)](https://blog.naver.com/windowlife)  
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/@koreaman4465)
+  &emsp;[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/@koreaman4465)
   
 ## :mailbox: How To Contact Me
  &emsp; :email: windowlife92@gmail.com<br>    
