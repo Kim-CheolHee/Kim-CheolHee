@@ -36,5 +36,5 @@
   
 ## :mailbox: How To Contact Me
  &emsp; :email: windowlife92@gmail.com<br>    
- &emsp; :telephone_receiver: 010-7279-4033                                                                                                                               
+ &emsp; :telephone_receiver: 010-7279-4033                                                                                                                                
  
